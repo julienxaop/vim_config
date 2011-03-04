@@ -1,0 +1,1 @@
+simple_comments.vba: call delete('/home/julien/.vim/doc/simple_comments.txt')|call delete('/home/julien/.vim/plugin/simple_comments.vim')
